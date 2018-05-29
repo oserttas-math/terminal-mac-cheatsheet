@@ -55,6 +55,7 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | ls -R | Entire content of folder recursively |
 | sudo [command] | Run command with the security privileges of the superuser (Super User DO) |
 | open [file] | Opens a file ( as if you double clicked it ) |
+| open -a "Application Name"/Path/to/filename | Opens the file using your choice of application |
 | top | Displays active processes. Press q to quit |
 | nano [file] | Opens the file using the nano editor |
 | vim [file] | Opens the file using the vim editor |
